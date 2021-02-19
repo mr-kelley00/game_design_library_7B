@@ -15,6 +15,11 @@ def roll_d4(num_roll): # num_roll is an ARGUMENT.
         sum += result 
     print(f"The total roll was {sum}.\n")
 
-roll_d4(5)
 
+
+# d6 Simulator 
+# d8 Simulator
+# d12 Simulator
+# d20 Simulator 
+# d100 Simulator 
 
